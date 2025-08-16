@@ -2,20 +2,20 @@ class Solution {
 public:
     int maximum69Number (int num) {
        
-        int place = 0;
-        int index = -1;
-        int temp = num;
-        while(temp) {
-            int remain = temp%10;
-            if(remain == 6)
-                index = place;
-            
-            temp = temp/10;
-            place++;
+        int x=0;
+        int y=-1;
+        int res = num;
+        while(res){
+            int z = res%10;
+
+            if(z==6)
+            y=x;
+
+            res/=10;
+            x++;
         }
-        
-        if(index == -1) return num;
-        
-        return num + 3*pow(10, index);
+        if(y==-1) return num;
+
+        return num + 3*pow(10,y);
     }
 };
