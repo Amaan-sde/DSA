@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Amaan-sde/DSA/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Amaan-sde/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Amaan-sde/DSA/tree/master/2481-strictly-palindromic-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Amaan-sde/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
