@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amaan-sde/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amaan-sde/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Amaan-sde/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Amaan-sde/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Amaan-sde/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Amaan-sde/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Amaan-sde/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amaan-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Amaan-sde/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Geometry
 |  |
 | ------- |
@@ -162,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
