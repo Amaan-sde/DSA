@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Amaan-sde/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Amaan-sde/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Amaan-sde/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Amaan-sde/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Amaan-sde/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Amaan-sde/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Amaan-sde/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Amaan-sde/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
