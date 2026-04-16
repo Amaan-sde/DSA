@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Amaan-sde/DSA/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Amaan-sde/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Amaan-sde/DSA/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Amaan-sde/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Amaan-sde/DSA/tree/main/0112-path-sum/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Amaan-sde/DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -229,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaan-sde/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Amaan-sde/DSA/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
