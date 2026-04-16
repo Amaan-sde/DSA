@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Amaan-sde/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Amaan-sde/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Amaan-sde/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
