@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amaan-sde/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amaan-sde/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Math
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amaan-sde/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amaan-sde/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1628-count-submatrices-with-all-ones](https://github.com/Amaan-sde/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
