@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amaan-sde/DSA/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Amaan-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
