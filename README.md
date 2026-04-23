@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amaan-sde/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amaan-sde/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Math
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Amaan-sde/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amaan-sde/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Amaan-sde/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Amaan-sde/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Amaan-sde/DSA/tree/master/3748-sort-matrix-by-diagonals) |
