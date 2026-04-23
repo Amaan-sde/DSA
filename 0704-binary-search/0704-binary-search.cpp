@@ -1,20 +1,22 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int s=0, e=nums.size()-1;
-        int mid = s+(e-s)/2;
-        while(s<=e){
-            if(nums[mid]==target){
-                return mid;
-            }
-            else if(nums[mid]<target){
-                s=mid+1;
-            }
-            else{
-                e=mid-1;
-            }
-            mid=s+(e-s)/2;
+    int BS(vector<int>nums, int target , int s, int e){
+        int mid=s+(e-s)/2;
+        if(s>e){
+            return -1;
         }
-        return -1;
+        if(nums[mid]==target){
+            return mid;
+        }
+        else if(nums[mid]<target){
+           return BS(nums,target,s=mid+1, e);
+        }
+        else{
+            return BS(nums,target,s, e=mid-1);
+        }
+      
+    }
+    int search(vector<int>& nums, int target) {
+        return BS(nums,target ,0, nums.size()-1);
     }
 };
