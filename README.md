@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Amaan-sde/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Amaan-sde/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Tree
