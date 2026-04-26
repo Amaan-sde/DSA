@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Amaan-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Amaan-sde/DSA/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Amaan-sde/DSA/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Amaan-sde/DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 ## Matrix
