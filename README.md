@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amaan-sde/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Amaan-sde/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amaan-sde/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Amaan-sde/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Amaan-sde/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Amaan-sde/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Amaan-sde/DSA/tree/master/1628-count-submatrices-with-all-ones) |
