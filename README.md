@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Amaan-sde/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Amaan-sde/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Amaan-sde/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Amaan-sde/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Amaan-sde/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amaan-sde/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Amaan-sde/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Amaan-sde/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Amaan-sde/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Amaan-sde/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
