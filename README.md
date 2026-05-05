@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Amaan-sde/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Amaan-sde/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
