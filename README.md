@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Amaan-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Amaan-sde/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Amaan-sde/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Amaan-sde/DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Amaan-sde/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Amaan-sde/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Amaan-sde/DSA/tree/main/0090-subsets-ii/) | Medium |
