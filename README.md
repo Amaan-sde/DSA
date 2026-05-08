@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Amaan-sde/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
+| [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Amaan-sde/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Amaan-sde/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sorting
 | Problem Name | Difficulty |
