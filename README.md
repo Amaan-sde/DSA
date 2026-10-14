@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Amaan-sde/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Amaan-sde/DSA/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Amaan-sde/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Amaan-sde/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amaan-sde/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [2481-strictly-palindromic-number](https://github.com/Amaan-sde/DSA/tree/master/2481-strictly-palindromic-number) |
