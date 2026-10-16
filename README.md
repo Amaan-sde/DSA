@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Amaan-sde/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amaan-sde/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Amaan-sde/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amaan-sde/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Amaan-sde/DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
