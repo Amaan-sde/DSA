@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Amaan-sde/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amaan-sde/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
+| [2810-faulty-keyboard](https://github.com/Amaan-sde/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Amaan-sde/DSA/tree/master/1642-water-bottles) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Amaan-sde/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2810-faulty-keyboard](https://github.com/Amaan-sde/DSA/tree/main/2810-faulty-keyboard/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
