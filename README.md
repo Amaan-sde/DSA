@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amaan-sde/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/Amaan-sde/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Amaan-sde/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Amaan-sde/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amaan-sde/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Amaan-sde/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amaan-sde/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0344-reverse-string](https://github.com/Amaan-sde/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2481-strictly-palindromic-number](https://github.com/Amaan-sde/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 | Problem Name | Difficulty |
