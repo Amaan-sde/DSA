@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Amaan-sde/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
