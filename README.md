@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Amaan-sde/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Amaan-sde/DSA/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Amaan-sde/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Amaan-sde/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/Amaan-sde/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
