@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amaan-sde/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Amaan-sde/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Amaan-sde/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amaan-sde/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Amaan-sde/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Amaan-sde/DSA/tree/main/0069-sqrtx/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Amaan-sde/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
