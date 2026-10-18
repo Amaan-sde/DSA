@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Amaan-sde/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Amaan-sde/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Amaan-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Amaan-sde/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Amaan-sde/DSA/tree/main/0039-combination-sum/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/Amaan-sde/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Amaan-sde/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Amaan-sde/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
