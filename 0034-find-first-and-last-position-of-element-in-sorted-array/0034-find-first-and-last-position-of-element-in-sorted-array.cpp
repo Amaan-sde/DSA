@@ -1,58 +1,50 @@
 class Solution {
 public:
-int firstOcc(vector<int>& nums,int target){
-            int n=nums.size();
-        int s=0,e=n-1;
-        int mid=s+(e-s)/2;
+    int firstOcc(vector<int>& nums , int target){
+        int s = 0, e =nums.size()-1;
+        int mid = s+(e-s)/2;
         int ans=-1;
         while(s<=e){
-            if(nums[mid]==target){
-                ans=mid;
+            if(nums[mid] == target){
+                ans = mid;
                 e=mid-1;
             }
-            else if(target>nums[mid]){
+            else if(nums[mid] < target){
                 s=mid+1;
             }
-            else if(target<nums[mid]){
+            else{
                 e=mid-1;
             }
-
-            mid=s+(e-s)/2;
-
+            mid = s+(e-s)/2;
         }
         return ans;
-        }
-int lastOcc(vector<int>& nums,int target){
-            int n=nums.size();
-        int s=0,e=n-1;
-        int mid=s+(e-s)/2;
+    }
+
+    int lastOcc(vector<int>& nums , int target){
+        int s = 0, e =nums.size()-1;
+        int mid = s+(e-s)/2;
         int ans=-1;
         while(s<=e){
-            if(nums[mid]==target){
-                ans=mid;
+            if(nums[mid] == target){
+                ans = mid;
                 s=mid+1;
             }
-            else if(target>nums[mid]){
+            else if(nums[mid] < target){
                 s=mid+1;
             }
-            else if(target<nums[mid]){
+            else{
                 e=mid-1;
             }
-
-            mid=s+(e-s)/2;
-
+            mid = s+(e-s)/2;
         }
-return ans;
-
-}
-
+        return ans;
+    }
     vector<int> searchRange(vector<int>& nums, int target) {
-       int firstIdx=firstOcc(nums,target);
-       int lastIdex=lastOcc(nums,target);
-       vector<int> result;
-       result.push_back(firstIdx);
-       result.push_back(lastIdex);
-
-       return result;    
+        vector<int>ans;
+        int x = firstOcc(nums , target);
+        int y = lastOcc(nums , target);
+        ans.push_back(x);
+        ans.push_back(y);
+        return ans;
     }
 };
