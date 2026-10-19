@@ -1,14 +1,9 @@
 class Solution {
 public:
-bool isPossible(vector<int> &nums, int n, int h, int mid) {
+bool isPossible(vector<int> nums, int n, int h, int mid) {
     long long ans = 0;
-
     for (int i = 0; i < n; i++) {
-        ans += nums[i] / mid;
-
-        if (nums[i] % mid != 0) {
-            ans++;
-        }
+        ans += (nums[i] + mid - 1) / mid;
     }
 
     if (ans <= h) {
@@ -18,9 +13,8 @@ bool isPossible(vector<int> &nums, int n, int h, int mid) {
     return false;
 }
     int minEatingSpeed(vector<int>& piles, int h) {
-        sort(piles.begin() , piles.end());
         int n = piles.size();
-        int s = 0;
+        int s = 1;
         int maxi=-1;
         for(int i =0;i<n; i++){
             maxi = max(maxi,piles[i]);
