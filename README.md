@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1448-maximum-69-number](https://github.com/Amaan-sde/DSA/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Amaan-sde/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Amaan-sde/DSA/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Amaan-sde/DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Amaan-sde/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Amaan-sde/DSA/tree/main/0704-binary-search/) | Easy |
 | [0792-binary-search](https://github.com/Amaan-sde/DSA/tree/master/0792-binary-search) |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amaan-sde/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
