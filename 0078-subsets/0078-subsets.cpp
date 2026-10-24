@@ -1,6 +1,6 @@
 class Solution {
 public:
-void sub(vector<vector<int>>&ans , vector<int>temp , vector<int>&nums , int n , int index){
+void sub(vector<vector<int>>&ans , vector<int>&temp , vector<int>&nums , int n , int index){
     if(index == n){
         ans.push_back(temp);
         return;
