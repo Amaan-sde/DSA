@@ -8,6 +8,7 @@ void sub(vector<vector<int>>&ans , vector<int>temp , vector<int>&nums , int n , 
     sub(ans , temp , nums , n , index+1);
     temp.push_back(nums[index]);
     sub(ans , temp , nums , n , index+1);
+    temp.pop_back();
 }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
