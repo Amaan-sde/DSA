@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Amaan-sde/DSA/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/Amaan-sde/DSA/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amaan-sde/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0867-new-21-game](https://github.com/Amaan-sde/DSA/tree/master/0867-new-21-game) |
 | [0909-stone-game](https://github.com/Amaan-sde/DSA/tree/master/0909-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaan-sde/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Amaan-sde/DSA/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Amaan-sde/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/Amaan-sde/DSA/tree/main/0494-target-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Amaan-sde/DSA/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amaan-sde/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amaan-sde/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Amaan-sde/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Amaan-sde/DSA/tree/main/0113-path-sum-ii/) | Medium |
+| [0494-target-sum](https://github.com/Amaan-sde/DSA/tree/main/0494-target-sum/) | Medium |
 | [0679-24-game](https://github.com/Amaan-sde/DSA/tree/master/0679-24-game) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -349,8 +352,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Amaan-sde/DSA/tree/main/0279-perfect-squares/) | Medium |
+| [0494-target-sum](https://github.com/Amaan-sde/DSA/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Amaan-sde/DSA/tree/main/0279-perfect-squares/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Amaan-sde/DSA/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
