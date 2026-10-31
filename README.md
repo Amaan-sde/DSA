@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Amaan-sde/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amaan-sde/DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Amaan-sde/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2481-strictly-palindromic-number](https://github.com/Amaan-sde/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Amaan-sde/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Amaan-sde/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Amaan-sde/DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Amaan-sde/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
